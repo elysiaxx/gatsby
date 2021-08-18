@@ -1,0 +1,3 @@
+[submodule "first-gatsby"]
+	path = first-gatsby
+	url = https://github.com/kaanblack09/first-gatsby.git
